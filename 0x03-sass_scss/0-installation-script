@@ -1,0 +1,12 @@
+# Create and move into the project directory
+mkdir 0x03-sass_scss
+cd 0x03-sass_scss
+
+# Confirm Node.js is installed
+node -v
+
+# Install SASS version 3.7.4 using npm
+npm install sass@3.7.4
+
+# Confirm SASS installation (optional)
+npx sass --version
